@@ -1,4 +1,4 @@
-# Tracalorie
+# Breakcalories
 
 This is an app to track calories, meals and workouts.
 
@@ -26,4 +26,4 @@ npm run build
 
 Your production files will be in the `dist` folder.
 
-You can view the hosted version of this app at https://spectacular-souffle-a6e5f4.netlify.app
+You can view the hosted version of this app at https://breakcalories.netlify.app/
